@@ -4,4 +4,4 @@
 <li align="center"> Reiniciar jogo: R </li>
 <li align="center"> Fechar jogo: Esc </li>
 <li align="center"></li>
-<li align="center"> O executavel do jogo esta na pasta Build/1.0 </li>
+<li align="center"> O executável do jogo esta na pasta Build/1.0 </li>
